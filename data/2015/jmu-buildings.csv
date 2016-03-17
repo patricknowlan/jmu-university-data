@@ -1,0 +1,213 @@
+university_id,Name,Address,Code,Type,Location,Status,Lattitude,Longitude
+1,Alumnae Hall,91 Alumnae Dr.,ALUM,Administrative,EG,OWNED,38.439672,-78.874061
+2,Anthony-Seeger Hall,821 S. Main,AS,Academic,EG,OWNED,38.441268,-78.875416
+3,Ashby Hall,50 Bluestone Dr.,ASHB,Residential,AUX,OWNED,38.438641,-78.875139
+5,Burruss Hall,820 Madison Dr.,BURR,Academic,EG,OWNED,38.439397,-78.872200
+6,Cleveland Hall,61 E. Grace,CLEV,Academic,EG,OWNED,38.439997,-78.873928
+7,Converse Hall,30 Bluestone Dr.,CONV,Residential,AUX,OWNED,38.438332,-78.875736
+8,Duke Hall,820 S. Main,DUKE,Academic,EG,OWNED,38.440695,-78.87389
+9,Mr. Chips Convenience Store,190 Bluestone Dr.,CS,Dining,AUX,OWNED,38.437143,-78.869631
+10,Frederikson Hall,980 Frederikson Serv. Dr.,FRED,Residential,AUX,OWNED,38.435915,-78.869311
+11,Gibbons Hall,150 Bluestone Dr.,GIBB,Dining,AUX,OWNED,38.437431,-78.872144
+12,Gifford Hall,20 Bluestone Dr.,GIFF,Residential,AUX,OWNED,38.437839,-78.875816
+13,Harrison Hall,54 Bluestone Dr.,HARR,Academic,EG,OWNED,38.438035,-78.874985
+14,Huffman Hall,200 Huffman Serv. Dr.,HUFF,Residential,AUX,OWNED,38.436522,-78.868595
+15,Hillcrest,251 Warren Serv. Dr.,HILL,Academic,EG,OWNED,38.438078,-78.871550
+16,Hoffman Hall,71 Bluestone Dr.,HOFF,Residential,AUX,OWNED,38.436826,-78.874951
+17,Jackson Hall,58 Bluestone Dr.,JACK,Academic,EG,OWNED,38.438019,-78.874230
+18,Johnston Hall,70 Alumnae Dr.,JOHN,Academic,EG,OWNED,38.439499,-78.873427
+19,Keezell Hall,921 Madison Dr.,KEEZ,Academic,EG,OWNED,38.438454,-78.872733
+20,Frye Building,91 Bluestone Dr.,FRYE,Administrative,EG,OWNED,38.436563,-78.874342
+21,Carrier Library,880 Madison Dr.,LIBR,Library,EG,OWNED,38.438786,-78.872019
+23,Logan Hall,70 Bluestone Dr.,LOGN,Residential,AUX,OWNED,38.437424,-78.875156
+24,Maury Hall,971 Madison Dr.,MAUR,Academic,EG,OWNED,38.437688,-78.873604
+25,Moody Hall,90 Bluestone Dr.,MOOD,Academic,EG,OWNED,38.437335,-78.874021
+27,Power Plant,1010 Newman Dr.,PWRP,Physical Plant,EG,OWNED,38.436455,-78.873886
+29,Sheldon Hall,71 Alumnae Dr.,SHEL,Academic,EG,OWNED,38.439217,-78.873715
+31,Spotswood Hall,51 Alumnae Dr.,SPOT,Residential,AUX,OWNED,38.439531,-78.874219
+33,Varner House,80 Bluestone Dr.,VARN,Student Services,EG,OWNED,38.437098,-78.874318
+34,Wayland Hall,51 Bluestone Dr.,WAYL,Residential,AUX,OWNED,38.437328,-78.875778
+36,Wilson Hall,951 Madison Dr.,WILS,Administrative,EG,OWNED,38.438019,-78.873086
+38,Hanson Hall,350 Carrier Dr.,HANS,Residential,AUX,OWNED,38.435087,-78.868906
+39,Chappelear Hall,360 Carrier Dr.,CHAP,Residential,AUX,OWNED,38.435360,-78.868339
+41,Shorts Hall,440 Lakeside Service Dr,SHOR,Residential,AUX,OWNED,38.433840,-78.873731
+42,Garber Hall,201 Ikenberry Serv. Dr.,GARB,Residential,AUX,OWNED,38.436759,-78.867653
+43,Dingledine Hall,221 Ikenberry Serv. Dr.,DING,Residential,AUX,OWNED,38.436220,-78.867532
+44,Eagle Hall,231 Champions Dr,EAGL,Residential,AUX,OWNED,38.433850,-78.872978
+46,Warren Hall,170 Bluestone Dr.,WARR,Administrative,AUX,OWNED,38.437735,-78.870733
+47,Weaver Hall,400 Carrier Dr.,WEAV,Residential,AUX,OWNED,38.435450,-78.867358
+48,Godwin Hall,261 Bluestone Dr.,GODW,Athletic,AUX,OWNED,38.435263,-78.871595
+50,Ikenberry Hall,210 Ikenberry Serv. Dr.,IKEN,Residential,AUX,OWNED,38.436585,-78.866624
+52,White Hall,480 Carrier Drive,WHIT,Residential,AUX,OWNED,38.435719,-78.866367
+53,Chandler Hall,451 Bluestone Dr.,CHAN,Residential,AUX,OWNED,38.433076,-78.873566
+55,Miller Hall,91 E. Grace,MILL,Academic,EG,OWNED,38.440040,-78.873006
+56,Wine-Price North Campus,752 Ott,WP,Administrative,EG,OWNED,38.439072,-78.869604
+57,Bridgeforth Stadium,250 Champions Drive,STDM,Athletic,AUX,OWNED,38.435094,-78.873133
+58,"Lake Cluster A (A,B,C,D)",1201 Greek Row,LCA,Residential,AUX,OWNED,,
+59,"Lake Cluster B (E,F,G,H)",1190 Greek Row,LCB,Residential,AUX,OWNED,,
+60,"Lake Cluster C (J,K)",1150 Greek Row,LCC,Residential,AUX,OWNED,,
+61,"Lake Cluster D (L,M,N)",1100 Greek Row,LCD,Residential,AUX,OWNED,,
+62,Roop Hall,60 Bluestone Dr.,ROOP,Academic,EG,OWNED,38.437622,-78.874565
+63,Oakview,916 Oak Hill Dr.,OAKV,Residential,AUX,OWNED,38.427083,-78.869931
+64,Convocation Center,895 University Blvd.,CONC,Athletic,AUX,OWNED,38.431906,-78.868862
+65,Bell Hall,"401 Martin Luther King, Jr. Way",BELL,Residential,AUX,OWNED,38.438833,-78.867753
+66,McGraw-Long Hall,"421 Martin Luther King Jr., Way",MCLG,Residential,AUX,OWNED,38.438690,-78.866856
+67,Phillips Hall,261 Warren Serv. Dr.,PHIL,Dining,AUX,OWNED,38.438418,-78.870982
+68,University Farm House,"8399 Alumnae Dr. Port Republic 24471Road #331, off Rt. 659",UFH,Academic,EG,OWNED,,
+69,Transmitter Shack (Lease 012),Little North Mtn.,TS,Lease,EG,LEASED,,
+70,Grafton-Stovall Theatre,281 Warren Serv. Dr.,GST,Movie Theatre,AUX,OWNED,38.438165,-78.87052
+78,"Lake Cluster E (P,R)",1291 Greek Row,LCE,Residential,AUX,OWNED,,
+79,"Lake Cluster F (S,T)",1251 Greek Row,LCF,Residential,AUX,OWNED,,
+80,Hillside Hall,290 Warren Serv. Dr.,HLSD,Residential,AUX,OWNED,38.438487,-78.868923
+88,Cardinal House,500 Cardinal,CARD,Academic,EG,OWNED,38.437592,-78.862727
+100,Music Building,880 S. Main,MUS,Academic,EG,OWNED,38.439954,-78.874688
+101,South Main Dining Services Warehouse,1593 S. Main,DSWH,Dining,AUX,OWNED,38.430348,-78.886089
+102,Motor Pool Alternative Fuel Building,1595 S. Main,MPAF,Physical Plant,EG,OWNED,38.430248,-78.885911
+103,South Main Storage Building #1,1597 S. Main,SB1,Physical Plant,EG,OWNED,38.430159,-78.885768
+108,Mauck Stadium,761 Duke's Dr.,MS,Athletic,AUX,OWNED,38.436254,-78.864643
+109,University Farm Pavilion,"8398 Alumnae Dr. Port Republic 24471Road #331, off Rt. 659",UFP,Academic,EG,OWNED,,
+112,Zane Showker Hall,421 Bluestone Dr.,ZSH,Academic,EG,OWNED,38.433495,-78.872581
+113,Sonner Hall,481 Bluestone Dr.,SONH,Administrative,EG,OWNED,38.432345,-78.874272
+118,Wampler Hall,10 Bluestone Dr.,WAMP,Residential,AUX,OWNED,38.438989,-78.875638
+123,Arboretum Pavilion,700 University Blvd.,AP,Administrative,EG,OWNED,38.429002,-78.862975
+126,South Main Storage Building #2 (Recycling),15951/2 S. Main,SB2,Physical Plant,EG,OWNED,,
+127,ISAT/CS Building (CISAT A1),701 Carrier Dr.,ISAT,Academic,EG,OWNED,38.434152,-78.863112
+128,Festival Conference and Student Center,1301 Carrier Dr.,FCSC,Dining,AUX,OWNED,38.432951,-78.859457
+129,University Services Building,181 Patterson,USB,Administrative,EG,OWNED,38.441164,-78.877067
+130,University Recreation Center,701 Driver Dr.,UREC,Recreational,AUX,OWNED,38.433453,-78.867634
+131,Athletic Fields (Support Building),510 Soccer Field Serv. Dr.,AFSB,Athletic,AUX,OWNED,38.431874,-78.856258
+132,Godwin Hall Bus Shelter,201 Bluestone Drive,GHBS,Administrative,EG,OWNED,38.436205,-78.871817
+133,Taylor Hall,285 Warren Serv. Dr.,TAYL,Administrative,AUX,OWNED,38.437937,-78.870113
+135,Grace Street House,17 W. Grace,GSH,Academic,EG,OWNED,38.441713,-78.875164
+141,Potomac Hall (CISAT R1),1621 Carrier Dr.,PMAC,Residential,AUX,OWNED,38.432276,-78.860472
+143,Chesapeake Hall (CISAT R2),1651 Carrier Dr.,CHES,Residential,AUX,OWNED,38.432131,-78.861636
+144,Health & Human Services Bldg. ( A2),801 Carrier Dr.,HHS,Academic,EG,OWNED,38.434174,-78.862286
+145,Champions Drive Parking Deck,280 Champions Dr.,CPD,Parking,AUX,OWNED,38.434945,-78.874106
+147,Leeolou Alumni Center,2002 Alumni Dr,LAC,Administrative,EG,OWNED,38.433503,-78.859686
+148,Physics/Chemistry(CISAT A3a),901 Carrier Dr.,PCB,Academic,EG,OWNED,38.433940,-78.861390
+152,James Madison Administrative Complex 1,1021 S. Main,JMA1,Administrative,EG,OWNED,38.439189,-78.877397
+156,Athletic Field #2 (Support Building) Softball,,AF2,Athletic,AUX,OWNED,38.431031,-78.86569
+158,Plecker Athletic Performance Center,220 Champions Dr,PAPC,Athletic,AUX,OWNED,38.434480,-78.872720
+159,University Bookstore,211 Bluestone Dr.,BOOK,Retail,AUX,OWNED,38.436281,-78.870498
+160,1077 S Main Street,1077 South Main Street,FH,Academic,EG,OWNED,38.437901,-78.878423
+168,James Madison Administrative Complex 2,1017 Harrison,JMA2,Administrative,EG,OWNED,,
+169,983 Reservoir Street,983 Reservoir,WMRA,Radio,EG,OWNED,38.440734,-78.858851
+170,Solar Panel Control Building,601 Carrier Drive,SPCB,Academic,EG,OWNED,38.434379,-78.864683
+176,Massanutten Hall,1031 S. Main,MASS,Administrative,EG,OWNED,38.438786,-78.877606
+177,Grace Street Modular,81 W. Grace,GSM,Physical Plant,EG,OWNED,,
+178,1150 S Main Street,1150 S Main Street,WH,Residential,AUX,OWNED,38.436728,-78.878587
+182,Student Success Center,738 S Mason Street,SSC,Administrative,EG,OWNED,38.440074,-78.871509
+183,Rose Library,1251 Carrier Dr.,ROSE,Library,EG,OWNED,38.434027,-78.858201
+188,Madison Hall,100 E. Grace,MADI,Construction,EG,OWNED,38.440699,-78.872303
+190,Cantrell Parking Deck (3-level),"275 Martin Luther King, Jr. Way",CPD,Parking,AUX,OWNED,38.439631,-78.869687
+191,Grace Street Parking Deck (7-level),258 E Grace Street,GSPD,Parking,AUX,OWNED,38.439301,-78.87048
+192,Steam Plant North Campus,268 Warren Service Drive,NCSP,Physical Plant,EG,OWNED,,
+196,Warsaw Avenue Parking Deck,157 Warsaw Ave.,WAPD,Parking,AUX,OWNED,38.440448,-78.877586
+198,Newman Drive Telecom Building,1016 Newman Dr.,NDT,Administrative,AUX,OWNED,,
+199,Motor Pool Garage,1603 S. Main,MPG,Physical Plant,EG,OWNED,,
+201,Estes Center-Theatre & Dance,147 Warsaw Ave.,PAC,Academic,EG,OWNED,,
+204,Frances Plecker Education Center,780 University Bldv.,FPEC,Administrative,EG,OWNED,38.428998,-78.863013
+205,483 Eastover Drive,483 Eastover Drive,483E,Residential,AUX,OWNED,,
+207,1050 S Main Street,1050 S Main Street,MIKE,Physical Plant,EG,OWNED,38.437626,-78.877472
+208,Shenandoah Hall (CISAT R3 Residence Hall),1671 Carrier Drive,SHEN,Residential,AUX,OWNED,38.431444,-78.862634
+209,East Campus Dining Hall,1681 Carrier Drive,ECDH,Dining,AUX,OWNED,38.431105,-78.86119
+212,Hillcrest Annex,257 Warren Serv. Dr.,HILX,Administrative,AUX,OWNED,,
+213,Roberts Center-Music Recital Hall,871 S. Main,MRH,Academic,EG,OWNED,38.440037,-78.876349
+218,Memorial Baseball Stadium,270 Veterans Memorial Dr,MBS,Athletic,AUX,OWNED,,
+219,Memorial Baseball RR Bldg,260 Veterans Memorial Dr,MBRB,Athletic,AUX,OWNED,,
+220,Memorial Softball Stadium,230 Veterans Memorial Dr,MSS,Athletic,AUX,OWNED,,
+221,Memorial Softball RR Bldg,240 Veterans Memorial Dr,MSRB,Athletic,AUX,OWNED,,
+222,Memorial Concession Bldg.,250 Veterans Memorial Dr,MCB,Dining,AUX,OWNED,,
+223,Memorial Hall Arts Complex,251 Veterans Memorial Dr,MHAC,Academic,EG,OWNED,,
+224,University Turf Building,837 Univesity Blvd.,TURF,Recreational,AUX,OWNED,,
+226,25 E Fairview,25 E Fairview,25EF,Residential,AUX,OWNED,38.435797,-78.878831
+227,Bioscience Building,951 Carrier Drive,BIO,Academic,EG,OWNED,38.433852,-78.860547
+229,479 Eastover Drive,479 Eastover Drive,479E,Residential,AUX,OWNED,38.436076,-78.861988
+231,Mini Stor (Lease 0120),190 E. Mosby Rd.,M120,Lease,EG,LEASED,38.418789,-78.891924
+232,Mini Stor (Lease 0121),190 E. Mosby Rd.,M121,Lease,EG,LEASED,38.418789,-78.891924
+233,396 South High St (L0122),396 South High Street,396S,Lease,EG,LEASED,,
+240,United Way Building,420 Chesapeake Ave,UWB,Academic,EG,OWNED,38.442654,-78.878291
+243,Golf Turf Building,251 Port Republic Rd,GTB,Athletic,AUX,OWNED,,
+244,1441 Butler Street,1441 Butler Street,1441,Athletic,AUX,OWNED,38.428973,-78.877755
+249,10 West Grace Street,10 West Grace Street,10WG,Residential,AUX,OWNED,,
+250,Mini Stor (Lease 0128),190 E Mosby Rd,L128,Lease,EG,LEASED,38.418789,-78.891924
+251,1210 S Main Street,1210 S Main Street,1210,Residential,AUX,OWNED,38.436236,-78.879312
+252,28 Port Republic Road,28 Port Republic Road,28PR,Residential,AUX,OWNED,38.435199,-78.87886
+254,960 Port Republic Road FM Garage,960 Port Republic Road,960G,Physical Plant,EG,OWNED,38.422347,-78.870943
+255,Rockingham Cooperative Grounds Bldg,573 Chesapeake Drive,RCGB,Physical Plant,EG,OWNED,38.441754,-78.878853
+257,University Park-UREC Gatehouse,1090 Devon Lane,UPUG,Athletic,AUX,OWNED,38.423189,-78.866907
+258,University Park-UREC Pavilion,1875 Performance Dr,UPUP,Athletic,AUX,OWNED,38.422111,-78.86482
+259,University Park-Athletics Gatehouse,1855 Performance Dr,UPAG,Athletic,AUX,OWNED,38.422072,-78.864904
+260,University Park-Athletics Pavilion,1045 Neff Ave,UPAP,Athletic,AUX,OWNED,38.420370,-78.868712
+261,University Park-Athletic Stadium,1085 Neff Ave,UPAS,Athletic,AUX,OWNED,38.420370,-78.868712
+263,University Park-South Facilities Mgt Bldg,1285 Kelsey Lane,UPSF,Physical Plant,AUX,OWNED,38.422099,-78.87064
+264,University Park-North Facilities Mgt Bldg,1285 Kelsey Lane,UPNF,Physical Plant,AUX,OWNED,38.422099,-78.87064
+265,Mini Stor (Lease 0127),190 E Mosby Rd,M127,Lease,EG,LEASED,38.418789,-78.891924
+266,Wind Training Facility,1150 Carrier Dr.,WTF,Academic,EG,OWNED,38.434509,-78.857481
+267,Mini Stor Lease (Lease 0129),190 E Mosby Rd,M129,Lease,EG,LEASED,38.418789,-78.891924
+269,Eastover Athletic Shed,494 Eastover Dr,EAS,Athletic,EG,OWNED,38.436528,-78.862539
+270,1070 Hillcrest Drive,1070 Hillcrest Drive,1070,Residential,AUX,OWNED,38.436000,-78.875229
+271,Mini Stor Lease (Lease 0131),190 E Mosby Rd,M131,Lease,EG,LEASED,38.418789,-78.891924
+272,RMH Voice & Swallowing Center (Lease 0132),2010 Health Campus Drive,L132,Lease,EG,LEASED,38.405102,-78.855415
+275,593 University Blvd (L0133),593 University Blvd,593U,Lease,EG,LEASED,38.429692,-78.857545
+276,Memorial Hall Geology Annex,235 Veterans Memorial Dr.,MHGA,Academic,EG,OWNED,,
+277,Grace Street Apartment Complex,42 West Grace Street,,Residential,AUX,OWNED,,
+279,709 Locust Hill,709 Locust Hill,709L,Residential,AUX,OWNED,38.430092,-78.870264
+280,605 Locust Hill,605 Locust Hill,605L,Residential,AUX,OWNED,38.431078,-78.871536
+281,701 Locust Hill,701 Locust Hill,701L,Residential,AUX,OWNED,38.430516,-78.870822
+282,1166/1168 Harrison Street,1166/1168 Harrison Street,1166,Residential,AUX,OWNED,38.437475,-78.87939
+283,116 Port Republic Road,116 Port Republic Road,116P,Residential,AUX,OWNED,38.433416,-78.877196
+284,209 Port Republic Road,209 Port Republic Road,209P,Residential,AUX,OWNED,38.431717,-78.877127
+285,Ice House (Lease 0134),127 West Bruce Street,ICE,Lease,EG,LEASED,38.447720,-78.871914
+286,Health Services Building,"235 Martin Luther King, Jr. Way",,Construction,EG,OWNED,,
+287,600 Locust Hill,600 Locust Hill,600L,Residential,AUX,OWNED,38.430953,-78.87232
+288,609 Locust Hill,609 Locust Hill,609L,Residential,AUX,OWNED,38.430889,-78.871285
+289,601 Hickory Hill,601 Hickory Hill,601H,Residential,AUX,OWNED,38.430562,-78.872719
+290,601 Locust Hill,601 Locust Hill,601L,Residential,AUX,OWNED,38.431312,-78.87183
+292,East Campus Dining Hall Support Building,,ECDS,Physical Plant,AUX,OWNED,,
+293,Lakeview Hall (L0136),298 Port Republic Road,LAKE,Lease,EG,LEASED,,
+294,705 Locust Hill,705 Locust Hill,705L,Residential,AUX,OWNED,38.430313,-78.870562
+295,900 Forest Hill,900 Forest Hill,900F,Residential,AUX,OWNED,38.430235,-78.871529
+296,Salt Storage Shed,1609 S Main,1609,Physical Plant,EG,OWNED,38.429818,-78.886379
+297,901 Forest Hill,901 Forest Hill,901F,Residential,AUX,OWNED,38.430636,-78.871909
+298,Mini Stor (Lease 0137),190 E Mosby Rd,M137,Lease,EG,LEASED,38.418789,-78.891924
+299,718 Hickory Hill,718 Hickory Hill,718H,Residential,AUX,OWNED,38.429275,-78.870995
+300,701 Hickory Hill,701 Hickory Hill,701H,Residential,AUX,OWNED,,
+301,700 Hickory Hill,700 Hickory Hill,700H,Residential,AUX,OWNED,,
+302,Mason Street Parking Deck,715 S. Mason Street,MSPD,Construction,AUX,OWNED,,
+303,Washington DC -Avalon Residence (Lease 0138),770 5th Street NW Washington DC,AVAL,Residential,AUX,LEASED,,
+304,Washington DC -16th Street Office (Lease 0139),1400 16th Street NW Washington DC,WASH,Academic,EG,LEASED,,
+305,Resource Recovery Faciltiy (Lease 0140),1630 Driver Drrive,RRF,Physical Plant,EG,LEASED,38.426234,-78.876481
+306,712 Locust Hill,712 Locust Hill,712L,Residential,AUX,OWNED,,
+307,Temporary Dining Facility,771 Duke Drive,TDF,Construction,AUX,OWNED,,
+308,Temporary Chick-Fil-A,94 Bluestone Drive,TCF,Construction,AUX,OWNED,,
+402,40 East Fairview Avenue,40 East Fairview Avenue,40EF,Residential,AUX,OWNED,,
+930,James Madison Administrative Complex 6,1031 Harrison Street,JMA6,Administrative,EG,OWNED,38.439344,-78.878426
+935,Mini Stor (Lease 037),190 E. Mosby Rd.,MS37,Lease,EG,LEASED,38.418789,-78.891924
+942,1598 South Main Street (L054),1598 South Main Street,1598,Lease,EG,LEASED,38.428957,-78.884728
+945,Blue Ridge Hall,601 University Blvd.,BLUE,Academic,EG,OWNED,38.430065,-78.858317
+946,James Madison Administrative Complex 4,1015 Harrison,JMA4,Administrative,EG,OWNED,,
+948,Mini Stor (Lease 058),190 E. Mosby Rd.,MS58,Lease,EG,LEASED,38.418789,-78.891924
+949,Mini Stor (Lease 061),211 E. Mosby Rd.,MS61,Lease,EG,LEASED,38.416686,-78.892285
+952,James Madison Administrative Complex 5,1041 S. Main,JMA5,Administrative,EG,OWNED,38.438480,-78.877645
+955,Mini Stor (Lease 083),190 & 211 E. Mosby Rd.,MS83,Lease,EG,LEASED,38.418789,-78.891924
+957,The Health Place (Lease 087),"294 E. Main Stanley, VA",HP87,Lease,EG,LEASED,38.575128,-78.501907
+961,Studio Center (Lease 092/0103),106 W. Grace,SC,Lease,EG,LEASED,,
+962,Mini Stor (Lease 091),190 & 211 E. Mosby Rd.,MS91,Lease,EG,LEASED,38.418789,-78.891924
+964,Mini Stor (Lease 098),190 & 211 E. Mosby Rd.,MS98,Lease,EG,LEASED,38.418789,-78.891924
+968,Mini Stor (Lease L0111),190 E. Mosby Rd.,L111,Lease,EG,LEASED,38.418789,-78.891924
+971,1070 Virginia Avenue (L0106),1070 Virginia Avenue,SMB,Lease,EG,LEASED,38.463953,-78.869231
+972,Memorial Hall,395 S. High,MEMH,Academic,EG,OWNED,38.445070,-78.878659
+973,131 West Grace Street (L0107),131 West Grace Street,WB,Lease,EG,LEASED,,
+974,Memorial Hall Greenhouse,239 Veterans Memorial Dr,MHGH,Physical Plant,EG,OWNED,,
+978,Memorial Hall Outfield Bldg.,220 Veterans Memorial Dr,MHOB,Athletic,AUX,OWNED,,
+980,220 University Blvd (L0110),220 University Blvd,UNIV,Lease,EG,LEASED,38.429189,-78.849286
+982,"Palazzo Capponi Florence, Italy","Florence, Italy",PCFI,Lease,EG,LEASED,,
+983,"Antwerp, Belgium","Antwerp, Belgium",ANTW,Lease,EG,LEASED,,
+984,1401 Technology Drive (L0113),1401 Technology Drive,TD,Lease,EG,LEASED,38.465997,-78.852913
+985,Mini Stor (Lease L0114),190 E. Mosby Rd.,L114,Lease,EG,LEASED,38.418789,-78.891924
+988,380 University Blvd. (L0117),380 University Blvd,SMPL,Lease,AUX,LEASED,38.428804,-78.852703
+989,Roanoke Higher Education Center (L0118),108 N. Jefferson Roanoke,RHEC,Lease,EG,LEASED,37.274469,-79.940936
+990,"29 Summerlee Ave London, England","29 Summerlee Ave London, England",29SA,Lease,AUX,LEASED,51.588818,-0.160592
+991,"11 Bedford Place London, England","11 Bedford Place London, England",11BP,Lease,AUX,LEASED,51.520497,-0.124642
+992,"14 Bedford Place London, England","14 Bedford Place London, England",14BP,Lease,AUX,LEASED,51.520497,-0.124642
